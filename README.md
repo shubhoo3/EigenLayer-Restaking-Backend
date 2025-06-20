@@ -75,4 +75,12 @@ Returns total rewards for a wallet, including breakdown per validator
 - `GET http://localhost:3000/api/validators`
 - `GET http://localhost:3000/api/rewards/0xabc123...`
 
+## Screenshots
 
+![image](https://github.com/user-attachments/assets/7292546a-50e2-4f22-90a5-20bf1ef63f7b)
+
+![image](https://github.com/user-attachments/assets/ebb0f23a-aa59-4f71-a100-4c8883765b43)
+
+![image](https://github.com/user-attachments/assets/df9e5fdd-2ae2-4ede-abdf-97d23e3d4efb)
+
+![image](https://github.com/user-attachments/assets/4ec56a84-b5fe-4184-8087-2983a6608953)
